@@ -18,7 +18,7 @@ URL = 'https://github.com/paladin3895/thongtinthuoc'
 EMAIL = 'duydatyds@gmail.com'
 AUTHOR = 'Dat Pham'
 REQUIRES_PYTHON = '>=3.6.0'
-VERSION = '0.1.0'
+VERSION = '0.2.0'
 
 # What packages are required for this module to be executed?
 REQUIRED = [
